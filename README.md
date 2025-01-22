@@ -1,2 +1,2 @@
 # representingFunctionsCSharp
-A elegant way of representing functions
+An elegant way of representing functions
